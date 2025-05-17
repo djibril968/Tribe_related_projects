@@ -1,0 +1,9 @@
+{
+	"name": "tribe-ETL-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06d22b5b-78ac-4a3c-974f-3c792bc6fbdb",
+		"tenantId": "1c349afe-1af7-45c8-bb53-6aac414cebbd"
+	}
+}
